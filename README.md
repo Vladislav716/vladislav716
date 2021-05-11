@@ -2,7 +2,7 @@
 
 ### Overview
 
-`Vladislav Ivanilov` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Simakos`, and `Sucsellful` with the objective to develop programming solutions and launch new applications. `Vladislav Ivanilov` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
+`Valentin Volkov` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Simakos`, and `Sucsellful` with the objective to develop programming solutions and launch new applications. `Vladislav Ivanilov` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
 
 #### ✨ Technical Stacks ✨
 
@@ -12,4 +12,4 @@
 * 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
-What `Vladislav Ivanilov` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
+What `Valentin Volkov` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
